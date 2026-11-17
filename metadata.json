@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Edu",
+  "description": "School performance, student statistics, assessment tracking, and career direction management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
